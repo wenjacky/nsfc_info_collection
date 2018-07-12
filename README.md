@@ -15,7 +15,7 @@
  
 
 # 运行
-    在命令行下，执行 python auto_search.py
+    在命令行下，执行 python3 auto_search.py
 
 # 依赖环境
 * [python 3.6.5](https://www.python.org/downloads/)，在2.x的环境中有些unicode字符编码的问题
