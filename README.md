@@ -21,8 +21,8 @@
 
 * 安装[python 3.6.5](https://www.python.org/downloads/)，在2.x的环境中有些unicode字符编码的问题
 * 安装PIP： sudo apt-get install python-pip python-dev
-* 开源的OCR图片识别[tesseract](https://github.com/tesseract-ocr/tesseract)
-* Pillow, [基本安装方法](https://pillow.readthedocs.io/en/5.1.x/)
+* 安装开源的OCR图片识别[tesseract](https://github.com/tesseract-ocr/tesseract)
+* 安装Pillow, [基本安装方法](https://pillow.readthedocs.io/en/5.1.x/)
 * 安装[pytesseract](https://github.com/madmaze/pytesseract)
 * 安装[selenium](https://pypi.org/project/selenium/)
 * 安装selenium的webdriver驱动Firefox的驱动程序[geckodriver](https://github.com/mozilla/geckodriver/releases)，本程序仅支持Firefox.
